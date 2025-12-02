@@ -1,0 +1,16 @@
+# Driver Drowsiness Detection System - Requirements
+
+# Core Computer Vision
+opencv-python==4.8.1.78
+mediapipe==0.10.9
+scipy==1.11.4
+numpy==1.24.3
+
+# GUI
+Pillow==10.1.0
+
+# Audio
+pygame==2.5.2
+
+# Build Tool (for creating standalone executable)
+pyinstaller==6.3.0
